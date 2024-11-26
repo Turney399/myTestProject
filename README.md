@@ -1,0 +1,2 @@
+# myTestProject
+Testing class project
